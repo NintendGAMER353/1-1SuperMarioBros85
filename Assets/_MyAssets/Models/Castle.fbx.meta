@@ -3,12 +3,7 @@ guid: a2a937fd53bad024fba276ddc2b9fb80
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Castle_Ref
-    second: {fileID: 2800000, guid: 50601283ae3d9a04b85e2c37293278a4, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
